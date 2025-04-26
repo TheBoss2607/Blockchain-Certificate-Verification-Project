@@ -1,0 +1,14 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="ecert-gradient" x1="0" y1="0" x2="64" y2="64" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4F8CFF"/>
+      <stop offset="1" stop-color="#6EE7B7"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="16" fill="url(#ecert-gradient)"/>
+  <g filter="url(#shadow)">
+    <path d="M20 44V20C20 17.7909 21.7909 16 24 16H40C42.2091 16 44 17.7909 44 20V44C44 46.2091 42.2091 48 40 48H24C21.7909 48 20 46.2091 20 44Z" fill="white"/>
+    <path d="M28 28H36M28 36H36" stroke="url(#ecert-gradient)" stroke-width="2" stroke-linecap="round"/>
+  </g>
+  <text x="32" y="58" text-anchor="middle" font-family="Poppins, Arial, sans-serif" font-size="12" fill="#4F8CFF" font-weight="bold">E-Cert</text>
+</svg> 
